@@ -1,6 +1,6 @@
-# BSI-PRINT
+# Coating-ZPL-Print-Server
 
-BSI-PRINT는 **원자재 라벨 인쇄 시스템**으로, DB에 적재된 인쇄 대기 데이터를 주기적으로 확인하고  
+Coating-ZPL-Print-Server는 **원자재 라벨 인쇄 시스템**으로, DB에 적재된 인쇄 대기 데이터를 주기적으로 확인하고  
 라벨 HTML → 이미지 → ZPL 변환 과정을 거쳐 네트워크 프린터로 출력합니다.
 
 ---
